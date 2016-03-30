@@ -1,0 +1,436 @@
+[
+	{
+		"id": 1,
+		"champion": "Real Madrid CF",
+		"subChampion": "Stade de Reims",
+		"result": "4-3",
+		"stadium": "Parque de los Príncipes, París, Francia"
+	},
+	{
+		"id": 2,
+		"champion": "Real Madrid CF",
+		"subChampion": "A. C. Fiorentina",
+		"result": "2-0",
+		"stadium": "Santiago Bernabéu, Madrid, España"
+	},
+	{
+		"id": 3,
+		"champion": "Real Madrid CF",
+		"subChampion": "A. C. Milan",
+		"result": "3-2 (pró.)",
+		"stadium": "Estadio de Heysel, Bruselas, Bélgica"
+	},
+	{
+		"id": 4,
+		"champion": "Real Madrid CF",
+		"subChampion": "Stade de Reims",
+		"result": "2-0",
+		"stadium": "Neckarstadion, Stuttgart, Alemania"
+	},
+	{
+		"id": 5,
+		"champion": "Real Madrid CF",
+		"subChampion": "Eintracht Frankfurt",
+		"result": "7-3",
+		"stadium": "Hampden Park, Glasgow, Escocia"
+	},
+	{
+		"id": 6,
+		"champion": "S. L. Benfica",
+		"subChampion": "F. C. Barcelona",
+		"result": "3-2",
+		"stadium": "Wankdorfstadion, Berna, Suiza"
+	},
+	{
+		"id": 7,
+		"champion": "S. L. Benfica",
+		"subChampion": "Real Madrid CF",
+		"result": "5-3",
+		"stadium": "Estadio Olímpico, Ámsterdam, Países Bajos"
+	},
+	{
+		"id": 8,
+		"champion": "A. C. Milan",
+		"subChampion": "S. L. Benfica",
+		"result": "2-1",
+		"stadium": "Estadio de Wembley, Londres, Inglaterra"
+	},
+	{
+		"id": 9,
+		"champion": "F. C. Internazionale",
+		"subChampion": "Real Madrid CF",
+		"result": "3-1",
+		"stadium": "Praterstadion, Viena, Austria"
+	},
+	{
+		"id": 10,
+		"champion": "F. C. Internazionale",
+		"subChampion": "S. L. Benfica",
+		"result": "1-0",
+		"stadium": "San Siro, Milán, Italia"
+	},
+	{
+		"id": 11,
+		"champion": "Real Madrid CF",
+		"subChampion": "FK Partizan Belgrado",
+		"result": "2-1",
+		"stadium": "Estadio de Heysel, Bruselas, Bélgica"
+	},
+	{
+		"id": 12,
+		"champion": "Celtic F. C.",
+		"subChampion": "F. C. Internazionale",
+		"result": "2-1",
+		"stadium": "Estadio Nacional, Lisboa, Portugal"
+	},
+	{
+		"id": 13,
+		"champion": "Manchester United F. C.",
+		"subChampion": "S. L. Benfica",
+		"result": "4-1 (pró.)",
+		"stadium": "Estadio de Wembley, Londres, Inglaterra"
+	},
+	{
+		"id": 14,
+		"champion": "A. C. Milan",
+		"subChampion": "A. F. C. Ajax",
+		"result": "4-1",
+		"stadium": "Santiago Bernabéu, Madrid, España"
+	},
+	{
+		"id": 15,
+		"champion": "Feyenoord",
+		"subChampion": "Celtic F. C.",
+		"result": "2-1 (pró.)",
+		"stadium": "San Siro, Milán, Italia"
+	},
+	{
+		"id": 16,
+		"champion": "A. F. C. Ajax",
+		"subChampion": "PAE Panathinaikós",
+		"result": "2-0",
+		"stadium": "Estadio de Wembley, Londres, Inglaterra"
+	},
+	{
+		"id": 17,
+		"champion": "A. F. C. Ajax",
+		"subChampion": "F. C. Internazionale",
+		"result": "2-0",
+		"stadium": "De Kuip, Róterdam, Países Bajos"
+	},
+	{
+		"id": 18,
+		"champion": "A. F. C. Ajax",
+		"subChampion": "Juventus F. C.",
+		"result": "1-0",
+		"stadium": "Estadio Estrella Roja, Belgrado, Yugoslavia"
+	},
+	{
+		"id": 19,
+		"champion": "F. C. Bayern",
+		"subChampion": "Atlético de Madrid",
+		"result": "1-1 (pró.), 4-0 (des.)",
+		"stadium": "Estadio de Heysel, Bruselas, Bélgica"
+	},
+	{
+		"id": 20,
+		"champion": "F. C. Bayern",
+		"subChampion": "Leeds United F. C.",
+		"result": "2-0",
+		"stadium": "Parque de los Príncipes, París, Francia"
+	},
+	{
+		"id": 21,
+		"champion": "F. C. Bayern",
+		"subChampion": "A. S. Saint-Étienne",
+		"result": "1-0",
+		"stadium": "Hampden Park, Glasgow, Escocia"
+	},
+	{
+		"id": 22,
+		"champion": "Liverpool F. C.",
+		"subChampion": "Borussia Mönchengladbach",
+		"result": "3-1",
+		"stadium": "Estadio Olímpico, Roma, Italia"
+	},
+	{
+		"id": 23,
+		"champion": "Liverpool F. C.",
+		"subChampion": "Club Brujas KV",
+		"result": "1-0",
+		"stadium": "Estadio de Wembley, Londres, Inglaterra"
+	},
+	{
+		"id": 24,
+		"champion": "Nottingham Forest F. C.",
+		"subChampion": "Malmö FF",
+		"result": "1-0",
+		"stadium": "Estadio Olímpico, Múnich, Alemania"
+	},
+	{
+		"id": 25,
+		"champion": "Nottingham Forest F. C.",
+		"subChampion": "Hamburger S. V.",
+		"result": "1-0",
+		"stadium": "Santiago Bernabéu, Madrid, España"
+	},
+	{
+		"id": 26,
+		"champion": "Liverpool F. C.",
+		"subChampion": "Real Madrid C. F.",
+		"result": "1-0",
+		"stadium": "Parque de los Príncipes, París, Francia"
+	},
+	{
+		"id": 27,
+		"champion": "Aston Villa F. C.",
+		"subChampion": "F. C. Bayern",
+		"result": "1-0",
+		"stadium": "De Kuip, Róterdam, Países Bajos"
+	},
+	{
+		"id": 28,
+		"champion": "Hamburger S. V.",
+		"subChampion": "Juventus F. C.",
+		"result": "1-0",
+		"stadium": "Estadio Olímpico, Atenas, Grecia"
+	},
+	{
+		"id": 29,
+		"champion": "Liverpool F. C.",
+		"subChampion": "A. S. Roma",
+		"result": "1-1 (pró.) (4-2 pen.)",
+		"stadium": "Estadio Olímpico, Roma, Italia"
+	},
+	{
+		"id": 30,
+		"champion": "Juventus F. C.",
+		"subChampion": "Liverpool F. C.",
+		"result": "1-0",
+		"stadium": "Estadio de Heysel, Bruselas, Bélgica"
+	},
+	{
+		"id": 31,
+		"champion": "F. C. Steaua București",
+		"subChampion": "F. C. Barcelona",
+		"result": "0-0 (pró. (2-0 pen.)",
+		"stadium": "Sánchez Pizjuán, Sevilla, España"
+	},
+	{
+		"id": 32,
+		"champion": "F. C. Porto",
+		"subChampion": "F. C. Bayern",
+		"result": "2-1",
+		"stadium": "Praterstadion, Viena, Austria"
+	},
+	{
+		"id": 33,
+		"champion": "PSV Eindhoven",
+		"subChampion": "S. L. Benfica",
+		"result": "0-0 (pró.) (6-5 pen.)",
+		"stadium": "Neckarstadion, Stuttgart, Alemania"
+	},
+	{
+		"id": 34,
+		"champion": "A. C. Milan",
+		"subChampion": "F. C. Steaua București",
+		"result": "4-0",
+		"stadium": "Camp Nou, Barcelona, España"
+	},
+	{
+		"id": 35,
+		"champion": "A. C. Milan",
+		"subChampion": "S. L. Benfica",
+		"result": "1-0",
+		"stadium": "Praterstadion, Viena, Austria"
+	},
+	{
+		"id": 36,
+		"champion": "F. K. Crvena Zvezda",
+		"subChampion": "Olympique de Marseille",
+		"result": "0-0 (pró.) (5-3 pen.)",
+		"stadium": "Stadio San Nicola, Bari, Italia"
+	},
+	{
+		"id": 37,
+		"champion": "F. C. Barcelona",
+		"subChampion": "U. C. Sampdoria",
+		"result": "1-0 (pró.)",
+		"stadium": "Estadio de Wembley, Londres, Inglaterra"
+	},
+	{
+		"id": 38,
+		"champion": "Olympique de Marseille",
+		"subChampion": "A. C. Milan",
+		"result": "1-0",
+		"stadium": "Estadio Olímpico, Múnich, Alemania"
+	},
+	{
+		"id": 39,
+		"champion": "A. C. Milan",
+		"subChampion": "F. C. Barcelona",
+		"result": "4-0",
+		"stadium": "Estadio Olímpico, Atenas, Grecia"
+	},
+	{
+		"id": 40,
+		"champion": "A. F. C. Ajax",
+		"subChampion": "A. C. Milan",
+		"result": "1-0",
+		"stadium": "Ernst Happel Stadion, Viena, Austria"
+	},
+	{
+		"id": 41,
+		"champion": "Juventus F. C.",
+		"subChampion": "A. F. C. Ajax",
+		"result": "1-1(pró.) (4-2 pen.)",
+		"stadium": "Estadio Olímpico, Roma, Italia"
+	},
+	{
+		"id": 42,
+		"champion": "B. V. Borussia",
+		"subChampion": "Juventus F. C.",
+		"result": "3-1",
+		"stadium": "Estadio Olímpico, Múnich, Alemania"
+	},
+	{
+		"id": 43,
+		"champion": "Real Madrid C. F.",
+		"subChampion": "Juventus F. C.",
+		"result": "1-0",
+		"stadium": "Amsterdam Arena, Ámsterdam, Países Bajos"
+	},
+	{
+		"id": 44,
+		"champion": "Manchester United F. C.",
+		"subChampion": "F. C. Bayern",
+		"result": "2-1",
+		"stadium": "Camp Nou, Barcelona, España"
+	},
+	{
+		"id": 45,
+		"champion": "Real Madrid C. F.",
+		"subChampion": "Valencia C. F.",
+		"result": "3-0",
+		"stadium": "Stade de France, Saint-Denis, Francia"
+	},
+	{
+		"id": 46,
+		"champion": "F. C. Bayern",
+		"subChampion": "Valencia C. F.",
+		"result": "1-1 (pró.) (5-4 pen.)",
+		"stadium": "Stadio Giuseppe Meazza, Milán, Italia"
+	},
+	{
+		"id": 47,
+		"champion": "Real Madrid C. F.",
+		"subChampion": "Bayer Leverkusen",
+		"result": "2-1",
+		"stadium": "Hampden Park, Glasgow, Escocia"
+	},
+	{
+		"id": 48,
+		"champion": "A. C. Milan",
+		"subChampion": "Juventus F. C.",
+		"result": "0-0 (pró.) (3-2 pen.)",
+		"stadium": "Old Trafford, Mánchester, Inglaterra"
+	},
+	{
+		"id": 49,
+		"champion": "F. C. Porto",
+		"subChampion": "A. S. Mónaco F. C.",
+		"result": "3-0",
+		"stadium": "Arena AufSchalke, Gelsenkirchen, Alemania"
+	},
+	{
+		"id": 50,
+		"champion": "Liverpool F. C.",
+		"subChampion": "A. C. Milan",
+		"result": "3-3 (pró.) (3-2 pen.)",
+		"stadium": "Estadio Olímpico Atatürk, Estambul, Turquía"
+	},
+	{
+		"id": 51,
+		"champion": "F. C. Barcelona",
+		"subChampion": "Arsenal F. C.",
+		"result": "2-1",
+		"stadium": "Stade de France, Saint-Denis, Francia"
+	},
+	{
+		"id": 52,
+		"champion": "A. C. Milan",
+		"subChampion": "Liverpool F. C.",
+		"result": "2-1",
+		"stadium": "Estadio Olímpico, Atenas, Grecia"
+	},
+	{
+		"id": 53,
+		"champion": "Manchester United F. C.",
+		"subChampion": "Chelsea F. C.",
+		"result": "1-1 (pró.) (6-5 pen.)",
+		"stadium": "Olímpico de Luzhniki, Moscú, Rusia"
+	},
+	{
+		"id": 54,
+		"champion": "F. C. Barcelona",
+		"subChampion": "Manchester United F. C.",
+		"result": "2-0",
+		"stadium": "Estadio Olímpico, Roma, Italia"
+	},
+	{
+		"id": 55,
+		"champion": "F. C. Internazionale",
+		"subChampion": "F. C. Bayern",
+		"result": "2-0",
+		"stadium": "Santiago Bernabéu, Madrid, España"
+	},
+	{
+		"id": 56,
+		"champion": "F. C. Barcelona",
+		"subChampion": "Manchester United F. C.",
+		"result": "3-1",
+		"stadium": "Estadio de Wembley, Londres, Inglaterra"
+	},
+	{
+		"id": 57,
+		"champion": "Chelsea F. C.",
+		"subChampion": "F. C. Bayern",
+		"result": "1-1 (pró.) (4-3 pen.)",
+		"stadium": "Allianz Arena, Múnich, Alemania"
+	},
+	{
+		"id": 58,
+		"champion": "F. C. Bayern",
+		"subChampion": "B. V. Borussia",
+		"result": "2-1",
+		"stadium": "Estadio de Wembley, Londres, Inglaterra"
+	},
+	{
+		"id": 59,
+		"champion": "Real Madrid C. F.",
+		"subChampion": "Atlético de Madrid",
+		"result": "4-1 (pró.)",
+		"stadium": "Estádio da Luz, Lisboa, Portugal"
+	},
+	{
+		"id": 60,
+		"champion": "F. C. Barcelona",
+		"subChampion": "Juventus F. C.",
+		"result": "3-1",
+		"stadium": "Estadio Olímpico, Berlín, Alemania"
+	},
+	{
+		"id": 61,
+		"champion": "Unknown",
+		"subChampion": "Unknown",
+		"result": "---",
+		"stadium": "Giuseppe Meazza, Milán, Italia"
+	},
+	{
+		"id": 62,
+		"champion": "Unknown",
+		"subChampion": "Unknown",
+		"result": "---",
+		"stadium": "Millennium Stadium, Cardiff, Gales"
+	}
+]

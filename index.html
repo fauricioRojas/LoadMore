@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html ng-app="MyApp">
+<head>
+	<title>Infinite Scroll</title>
+	<link rel="stylesheet" type="text/css" href="./node_modules/bootstrap/dist/css/bootstrap.min.css">
+	<link rel="stylesheet" type="text/css" href="./css/styles.css">
+</head>
+<body ng-controller="MyCtrl">
+	<div class="text-center jumbotron">
+		<label class="title">All the UEFA Champions League finals</label>
+	</div>
+	<div class="container">
+		<div>
+			<div class="col-md-6 col-sm-6 card-box" ng-repeat="final in finals">
+		        <div class="inner">
+			        <div class="title-card">
+			        	<label class="subtitle">{{final.stadium}}</label>
+		        	</div>
+		        	<div class="body-card">
+		  				<p>Champion: {{final.champion}}.</p>
+		  				<p>Sub champion: {{final.subChampion}}.</p>
+		  				<p>Result: {{final.result}}.</p>
+					</div>
+		        </div>
+			</div>
+		</div>
+		<div ng-hide="nothingForLoad" class="col-md-12">
+			<center>
+				<button ng-hide="loading" class="load-more" ng-click="loadMore();">Load more</button>
+				<img ng-show="loading" class="loading" src="./img/loading.gif">
+			</center>
+		</div>
+	</div>
+
+	<script type="text/javascript" src="./node_modules/angular/angular.min.js"></script>
+	<script type="text/javascript" src="./js/app.js"></script>
+</body>
+</html>
